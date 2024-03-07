@@ -1,0 +1,8 @@
+setup.py
+Modulo/__init__.py
+Modulo/llamado.py
+Modulo/persona.py
+nombre.egg-info/PKG-INFO
+nombre.egg-info/SOURCES.txt
+nombre.egg-info/dependency_links.txt
+nombre.egg-info/top_level.txt
